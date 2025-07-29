@@ -17,3 +17,6 @@ Python 3.8+
 A functional Odoo instance (local or remote)
 
 Groq API key (to be set in a .env file under GROQ_API_KEY)
+
+👉 [Click here to watch the demo]([https://your-demo-link.com](https://drive.google.com/file/d/1yG5R0Mn9t2vXMWvJ1xnqVB4axv6KtGxt/view?usp=sharing))
+
